@@ -25,7 +25,7 @@ sidebar:
           level: low-level
         - language:
           idiom: Image Processing(denoising, superresolution, and inpainting)
-          level: Professional
+          level: low-level
         
     interests:
         - interest:
