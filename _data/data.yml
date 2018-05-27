@@ -7,25 +7,24 @@ sidebar:
     # Profile information
     name: 岳强
     tagline: 深度学习算法工程师
-    pic: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+    pic: profile1.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
     
     # Sidebar links
     email: 249779451@qq.com 
     phone: 17521290451
     website: github.com/Johnson-yue #do not add http://
-    linkedin: None
     github: Johnson-yue
-    twitter: None
+  
 
     languages :
         - language:
-          idiom: English
-          level: Native
+          idiom: Object Detection
+          level: high-level
         - language:
-          idiom: French
-          level: Professional
+          idiom: GANs
+          level: low-level
         - language:
-          idiom: Spanish
+          idiom: Image Processing(denoising, superresolution, and inpainting)
           level: Professional
         
     interests:
@@ -113,17 +112,17 @@ publications:
     
     publications:
       - paper:
-        title: The Art of Computer Programming
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
+        title: 校级优秀毕业研究生
+        authors: 
+        conference: “2017”
       - paper:
-        title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
+        title: DJI全国机器人大赛一等奖
+        authors: 
+        conference: “2015”
       - paper:
-        title: A syntax directed compiler for Algol 60
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
+        title: Altera亚洲创新大赛优胜奖
+        authors: 
+        conference: "2015"
 
 
 skills:
