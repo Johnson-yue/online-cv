@@ -28,7 +28,7 @@ sidebar:
           idiom: Spanish
           level: Professional
         
-    interests:
+    interests research:
         - interest:
           item: Climbing
           link:
@@ -45,8 +45,8 @@ sidebar:
 
 
 career-profile: 
-    title: Career Profile
-    text: 'Summarise your career here lorem ipsum dolor sit amet, consectetuer adipiscing elit.You can <a href="#" target="_blank">download this free resume/CV template here</a>. Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu.'
+    title: 基本信息
+    text: '目前主要负责目标分类，检测等方向的研究ipiscing elit.You can <a href="#" target="_blank">download this free resume/CV template here</a>. Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu.'
 
 
 studies: 
