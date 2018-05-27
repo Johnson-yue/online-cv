@@ -17,23 +17,23 @@ sidebar:
     github: Johnson-yue
     twitter: None
 
-    感兴趣方向:
+    languages1:
         - language:
-          idiom: 目标检测
-          level: high
+          idiom: English
+          level: Native
         - language:
-          idiom: GANs
-          level: high
+          idiom: French
+          level: Professional
         - language:
-          idiom: NLP
-          level: high
+          idiom: Spanish
+          level: Professional
         
-    interests research:
+    interests:
         - interest:
-          item: Climbing
+          item: Learning Skills
           link:
         - interest:
-          item: Snowboarding
+          item: Sports
           link:
         - interest:
           item: Cooking
