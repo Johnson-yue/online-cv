@@ -1,10 +1,11 @@
 {% if site.data.data.sidebar.languages %}
 <div class="languages-container container-block">
 
-  <h2 class="container-block-title">Languages11111</h2>
+  {%for language in site.data.data.sidebar.languages %}
+  <h2 class="container-block-title">{{language.title}}</h2>
 
     <ul class="list-unstyled interests-list">
-      {%for language in site.data.data.sidebar.languages %}
+      
       <li>{{ language.idiom }} <span class="lang-desc">({{ language.level }})</span></li>
       {% endfor %}
     </ul>

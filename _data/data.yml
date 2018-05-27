@@ -17,7 +17,8 @@ sidebar:
     github: Johnson-yue
     twitter: None
 
-    languages:
+    languages :
+      title: 研究方向
         - language:
           idiom: English
           level: Native
@@ -104,7 +105,7 @@ projects:
         tagline: "通过DFT变换，直方图统计等方法实现遮挡摄像头动作的识别。"
 
 
-publications:
+publications1:
     title: Publications
     intro: "You can list your publications in this section. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum et ligula in nunc bibendum fringilla a eu lectus."
     
