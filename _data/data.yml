@@ -46,55 +46,54 @@ sidebar:
 
 career-profile: 
     title: 基本信息
-    text: '目前主要负责目标分类，检测等方向的研究ipiscing elit.You can <a href="#" target="_blank">download this free resume/CV template here</a>. Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu.'
+    text: '从2016年开始从事深度学习工作的研究，主要研究领域为目标检测。 
+    熟悉主流的目标检测网络，如：One-Stage 的方法有SSD，Yolov1-v3；Two-Stage的方法有Faster RCNN， R-FCN等；熟悉主流的网络结构，如inceptionv1-v4, ResNet,Dropout,BN等；能够将这些技术运用到工程项目中。 
+    深度学习基础扎实，对网络理解深入，有较为丰富的调参经验并能够独立阅读顶会paper并复现其网络架构，热衷于用深度学习技术来改进现有的技术。  涉猎范围除了目标检测外还有分类，图像压缩，图像检索，NLP，图像增强，RL等 '
 
 
 studies: 
     - education:
-      degree: MSc in Computer Science
-      university: University of London
-      time: 2011 - 2012
-      details: "Describe your study here lorem ipsum dolor sit amet, consectetuer adipiscing
-      elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et
-      magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec,
-      pellentesque eu, pretium quis, sem."
+      degree: 硕士——农业电气化与自动化专业
+      university: 东北林业大学
+      time: 2014 - 2017
+      details: "+++++++++++++++++++++++++++++++++++++++++++++++++++++."
 
     - education:
-      degree: BSc in Applied Mathematics
-      university: Bristol University
-      time: 2007 - 2011
-      details: "Describe your study here lorem ipsum dolor sit amet, consectetuer adipiscing
-      elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et
-      magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec,
-      pellentesque eu, pretium quis, sem."
+      degree: 本科——电子信息工程
+      university: 东北林业大学
+      time: 2010 - 2014
+      details: "******************************************."
 
 
 projects:
     title: Projects
-    intro: "You can list your side projects or open source libraries in this section. Lorem ipsum dolor
-      sit amet, consectetur adipiscing elit. Vestibulum et ligula in nunc bibendum fringilla a eu lectus."
+    intro: "这些项目有一些是已经应用到工程上的项目；有一些是研究型的，因为工程条件不满足而未被应用的."
     
     projects:
       - project:
-        title: Velocity
+        title: 基于SSD的车牌检测
         link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+        tagline: "学校的项目，主要功能是检测主楼门前广场内经过的车牌，主要使用caffe的C++接口部署在windows平台上，检测率可以达到92%.（Caffe版）"
       - project:
-        title: DevStudio
+        title: 训练分类网络
         link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
+        tagline: "公司项目，主要功能是区分单人照片，双人照片和无人的照片。使用DenseNet-121 训练分类网络，准确率达到98.2%。（Caffe版）"
       - project:
-        title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+        title: 复现《Distilling the Knowledge in a Neural Network》 
+        link: "https://github.com/SpeedUp4DL/mnist_distilling_John"
+        tagline: "大网络来训练小网络，使得小网络的性能得到提升。也是网络加速的一种方法，（通用版）"
       - project:
-        title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
+        title: 复现《Channel Pruning for Accelerating Very Deep Neural Networks》
+        link: "https://github.com/ReProduceByYQ/Channel_pruning_yq"
+        tagline: "训练之后的网络存在大量的参数冗余，通过Lasso regression和linear regression来减少网络中的冗余参数，使得在精度不变的情况下减小模型并减少inference time.（caffe版）"
       - project:
-        title: Delta
+        title: 基于ssd-MobileNetv1的目标检测
         link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+        tagline: "公司的项目，在固定视角下检测出现特定人员和车辆。（Tensorflow版）"
+      - project:
+        title: NasNet-cifar
+        link: "#"
+        tagline: "使用NasNet对cifar数据进行分类，复现中。。。"
 
 
 publications:
@@ -120,23 +119,26 @@ skills:
     title: Skills &amp; Proficiency
     skills:
         - skill:
-          name: Python & Django
-          level: 98%
+          name: C++
+          level: 97%
         - skill:
-          name: Javascript & jQuery
-          level: 98%
-        - skill:
-          name: Angular
-          level: 98%
-        - skill:
-          name: HTML5 & CSS
+          name: Caffe
           level: 95%
         - skill:
-          name: Ruby on Rails
-          level: 85%
+          name: Python 
+          level: 95%
         - skill:
-          name: Sketch & Photoshop
-          level: 60%
+          name: Tensorflow
+          level: 90%
+        - skill:
+          name: Matlab
+          level: 70%
+        - skill:
+          name: Linux & Shell
+          level: 65%
+        
+        
+        
 
 
 footer: 
