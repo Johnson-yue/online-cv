@@ -1,21 +1,21 @@
 sidebar:
     # Site Settings
-    title: My Resume
+    title: 岳强 Resume
     url: 'http://webjeda.com'
-    about: true # set to False or comment line if you want to remove the "How to use?" in the sidebar
+    about: False # set to False or comment line if you want to remove the "How to use?" in the sidebar
     
     # Profile information
     name: 岳强
-    tagline: Full Stack Developer
+    tagline: 深度学习算法工程师
     pic: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
     
     # Sidebar links
-    email: hello@webjeda.com
-    phone: 012 345 6789
-    website: blog.webjeda.com #do not add http://
-    linkedin: alandoe
-    github: sharu725
-    twitter: '@webjeda'
+    email: 249779451@qq.com 
+    phone: 17521290451
+    website: github.com/Johnson-yue #do not add http://
+    linkedin: None
+    github: Johnson-yue
+    twitter: None
 
     languages:
         - language:
